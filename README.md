@@ -3,9 +3,9 @@ Join our task mailing list: <a href="mailto:funny-headlines-semeval-2020-organiz
 
 The goal of this <a href="https://competitions.codalab.org/competitions/23212">shared task</a> is to assess humor in news headlines that have been modified using short edits to make them funny. There are two subtasks:
 
-* Sub-task 1 (Regression): Here the goal is to assign a funniness grade to an edited headline on a 0-3 funniness scale.
+* Sub-task 1 (Funniness Estimation): Here the goal is to assign a funniness grade to an edited headline in the [0,3] interval. Systems will be ranked by Root Mean Squared Error.
 
-* Sub-task 2: Given two differently edited versions of the same headline, the goal is to predict which is the funnier of the two.
+* Sub-task 2 (Funnier of the Two): Given two differently edited versions of the same headline, the goal is to predict which is the funnier of the two. Systems will be ranked by prediction accuracy.
 
 This repository provides python code to run baseline experiments and evaluation scripts for the two sub-tasks.
 
