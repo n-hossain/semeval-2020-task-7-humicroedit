@@ -1,7 +1,7 @@
 # Baseline and Evaluation scripts for SemEval 2020 Task 7
 Join our task mailing list: <a href="mailto:funny-headlines-semeval-2020-organizers@googlegroups.com">funny-headlines-semeval-2020-organizers@googlegroups.com</a>
 
-The goal of this <a href="https://competitions.codalab.org/competitions/20970">shared task</a> is to assess humor in news headlines that have been modified using short edits to make them funny. There are two subtasks:
+The goal of this <a href="https://competitions.codalab.org/competitions/23212">shared task</a> is to assess humor in news headlines that have been modified using short edits to make them funny. There are two subtasks:
 
 * Sub-task 1 (Funniness Estimation): Here the goal is to assign a funniness grade to an edited headline in the [0,3] interval. Systems will be ranked by Root Mean Squared Error.
 
