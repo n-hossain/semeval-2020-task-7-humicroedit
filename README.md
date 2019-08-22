@@ -1,5 +1,5 @@
 # Baseline and Evaluation scripts for SemEval 2020 Task 7
-Join our task mailing list: <a href="mailto:funny-headlines-semeval-2020-organizers@googlegroups.com">funny-headlines-semeval-2020-organizers@googlegroups.com</a>
+Join our task mailing list: <a href="https://groups.google.com/forum/#!forum/semeval-2020-task-7-all">semeval-2020-task-7-all@googlegroups.com</a>
 
 The goal of this <a href="https://competitions.codalab.org/competitions/20970">shared task</a> is to assess humor in news headlines that have been modified using short edits to make them funny. There are two subtasks:
 
